@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+.AppleDouble
+._*
+.Thumbs.db
+TragicDiskCache
+.VolumeIcon.icns
+.fseventsd
+
+# waylog
+.waylog/
